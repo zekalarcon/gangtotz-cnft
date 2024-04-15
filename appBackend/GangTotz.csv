@@ -1,0 +1,13 @@
+ID,Background,Head,Tone,Gang,Expression,Hair,HairColor,Shoes,RightHand,LeftHand,EarStyle,NeckStyle,ChestStyle,FaceStyle,Mark,TotalFeatures
+1,Red,Slim,Brown,Westside Babies,Serious,Dreds,Red Hair,Black Chucks,,,,,,,,1
+2,Dark Purple,Slim,Purple,GymRats,Angry,Dreds,Red Hair,,,,Gold Earring,,,,,1
+3,Orange,Chubby,Purple,Outlawz,None,Fade,Blond Hair,Red Chucks,,,,,,,,1
+4,Light Purple,Normal,Tan,Carlitos,None,Short,Black Hair,Black Boots,,,,,,,,1
+5,Green,Normal,Dark Brown,Mercenaries,Sad,Cornrows,Brunette Hair,Brown Boots,,,,,,,,1
+6,Light Purple,Normal,Brown,Outlawz,Laughing,Fade,Blond Hair,Black Chucks,Knife,,,,,,,2
+7,Blue,Chubby,Dark Tan,GymRats,None,Afro,Blond Hair,,,,,,,,Face Scar,1
+8,Green,Square,Dark Brown,The Professionals,Serious,Bald,Black Hair,Black Sneakers,,Teddy Bear,,,,,,2
+9,Gradient Blues,Normal,Dark Tan,Baseball Goons ,Happy,Short,Brunette Hair,Black Sneakers,,,,,,,,1
+10,Green,Slim,Dark Brown,Outlawz,None,Fade,Black Hair,Black Chucks,Bat,Rock,,,,,,3
+11,Orange,Normal,Dark Tan,Jesters,None,Short,Brunette Hair,Black Boots,Knife,,,,,,,2
+etc

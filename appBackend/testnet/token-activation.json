@@ -1,0 +1,23 @@
+{
+    "caWallet": {"getWalletId": ""},
+    "caID": {
+        "contents": {
+            "tpToken": {"unTokenName": "USDT"},
+            "tpAddress": {
+                "addressStakingCredential": {
+                    "contents": {
+                        "contents": {"getPubKeyHash": ""},
+                        "tag": "PubKeyCredential"
+                    },
+                    "tag": "StakingHash"
+                },
+                "addressCredential": {
+                    "contents": {"getPubKeyHash": ""},
+                    "tag": "PubKeyCredential"
+                }
+            },
+            "tpAmount": 100000
+        },
+        "tag": "Mint"
+    }
+}
